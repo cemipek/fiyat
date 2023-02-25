@@ -1,0 +1,28 @@
+{
+    "item":[
+        {
+            "kasa_fiyat_beyaz":87,  
+            "kasa_fiyat_boyalı":87,  
+            "kasa_fiyat_ahsap":114,
+            "kasa_fiyat_eloksal":93,
+            "tul_fiyat":12.5,
+            "bant_fiyat":1.5,
+            "serit_fiyat":1.5,
+            "takim_fiyat":7,
+            "ip_fiyat":0.26
+        },
+        {
+            "kasa_en_pay":3.8,
+            "kasa_boy_pay":7,
+            "kanat_pay":7.7,
+            "tul_pay":4.6,
+            "kat_pay":1.6,
+            "bant_pay":6,
+            "şerit_pay":6,
+            "ip_pay":20,
+            "takim_adet":1,
+            "kasa_gr":3,
+            "kanat_gr":3.3
+        }
+    ]
+}
